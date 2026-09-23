@@ -1,0 +1,8 @@
+{
+  "name": "Remix Drone Africa",
+  "description": "Professional drone mapping, aerial surveying, and cinematography portfolio for Drone Africa in Tanzania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
